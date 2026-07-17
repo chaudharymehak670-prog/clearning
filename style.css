@@ -786,7 +786,10 @@ FAQ Section
      text-align: left;
      margin-bottom: 30px;
    }
-
+  .footer-col h4{
+   color:white;
+   
+  }
    .copyright {
      text-align: center;
    }
