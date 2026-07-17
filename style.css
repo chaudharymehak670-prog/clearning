@@ -390,6 +390,8 @@ Footer
    list-style: none;
  }
 
+
+
  .footer-col ul li {
    margin-bottom: 12px;
  }
@@ -783,10 +785,6 @@ FAQ Section
    .footer-col {
      text-align: left;
      margin-bottom: 30px;
-   }
-
-   .footer-col h4 {
-     color: black;
    }
 
    .copyright {
